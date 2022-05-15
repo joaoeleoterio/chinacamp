@@ -4,7 +4,7 @@ import Header from './components/Header';
 import Footer from './components/Footer';
 import About from './pages/About';
 import Cardápio from './pages/Cardápio';
-import Contato from './pages/Contato';
+import Contato from './pages/Contact';
 
 function App() {
   return (
